@@ -28,7 +28,7 @@ nav{
     justify-content: space-between;
     gap: 40px;
     padding-right: 2rem;
-   
+   cursor: pointer;
 }
 
 /* nav section ends here */
